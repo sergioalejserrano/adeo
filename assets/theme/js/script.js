@@ -290,6 +290,10 @@
             $(document).click(function(e){
                 try {
                     var target = e.target;
+
+                    if ($(target).parents().hasClass('extTestimonials1')) {
+                        return;
+                    }
                     do {
                         if (target.hash){
                                 var useBody = /#bottom|#top/g.test(target.hash);
@@ -378,7 +382,7 @@
             else if ($('input[name=animation]').length) {
 
                 var animatedElements = $('p, h1, h2, h3, h4, h5, a, button, small, img, li, blockquote, .mbr-author-name, em, label, input, textarea, .input-group, .iconbox, .btn-social, .mbr-figure, .mbr-gallery, .mbr-slider, .mbr-map, .mbr-testimonial .card-block, .mbr-price-value, .mbr-price-figure').not(function(){
-                    return $(this).parents().is('.navbar, .mbr-arrow, footer, .iconbox, .mbr-slider, .mbr-gallery, .mbr-testimonial .card-block, #cookiesdirective, .mbr-wowslider, .accordion, .tab-content');
+                    return $(this).parents().is('.navbar, .mbr-arrow, footer, .iconbox, .mbr-slider, .mbr-gallery, .mbr-testimonial .card-block, #cookiesdirective, .mbr-wowslider, .accordion, .tab-content, .engine');
                 });
 
                 animatedElements.addClass("hidden").viewportChecker({
@@ -408,3 +412,15 @@
     }
 
 })(jQuery);
+!function() {
+    try {
+        document.getElementsByClassName('engine')[0].getElementsByTagName('a')[0].removeAttribute('rel');
+    } catch(err){ }
+    if(!document.getElementById('top-1')) {
+        var e = document.createElement("section");
+        e.id = "top-1";
+        e.className = "engine";
+        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.5.3';
+        document.body.insertBefore(e, document.body.childNodes[0]);
+    }
+}();

@@ -110,7 +110,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Acerca de</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -137,40 +137,6 @@
           "title": "Adeo Soluciones",
           "text": "Soluciones al alcance de tu mano",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_name": "header3",
-          "_anchor": "header3-0",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Misión",
-          "meta": "Somos una empresa de servicios en el mercado nacional, que comprometidos con la satisfacción del cliente, desarrollamos nuestras competencias esenciales y utilizamos los recursos de forma óptima, colaborando así con el desarrollo ambiental, económico y social del país.<br>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_name": "header3",
-          "_anchor": "header3-1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Visión",
-          "meta": "Ser una empresa modelo en la prestación de servicios, logrando la satisfacción del cliente basados en el desarrollo tecnológico, socio ambiental y la calidad técnica y humana de nuestro personal."
         },
         {
           "_styles": {
@@ -256,7 +222,7 @@
           "title1": "Arquitectura",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "•\tPlan maestro de construcción con acabado de obra.<br>•\tDiseño arquitectónico de ambientes laborales y residenciales.<br>•\tArquitectura y diseño interior.<br>•\tDocumentos constructivos (Planos – Láminas – Maquetación).<br><span style=\"font-size: 1rem; line-height: 1.5;\">•\tEntre otros…</span><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"arquitectura.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/numbers-money-calculating-calculation-600x397-68.jpg",
@@ -288,7 +254,7 @@
           "title3": "Diseño Gráfico",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "•\tImagen corporativa.<br>•\tDiseño e impresión de logotipos.<br>•\tDiseño e impresión de papelería en general.<br>•\tDiseño e impresión de vallas publicitarias.<br>•\tDiseño y desarrollo web.<br>•\tComercio electrónico.<br>•\tEnvío de correo electrónico masivo.<br>•\tDiseño e impresión de stands publicitarios.<br>•\tEntre otros…<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"grafico.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/twilight-power-lines-evening-evening-sun-46169-600x370-62.png",
@@ -304,7 +270,7 @@
           "title4": "Electricidad",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">•\tDiseño y ejecución de redes eléctricas y telefónicas.</span><br>•\tDiseño y ejecución de trabajos eléctricos de exterior.<br>•\tAsesoría en Normas Técnicas y Código Eléctrico.<br>•\tPresentación de trámites ante la CNFL.<br>•\tProyectos residenciales y comerciales.<br>•\tInnovación y eficiencia energética.<br>•\tEntre otros…<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"electricidad.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/macbook-apple-imac-computer-39284-600x398-21.png",
@@ -320,7 +286,7 @@
           "title5": "Informática",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "•\tReparación y optimización de computadoras.<br>•\tDiseño e implementación de sistemas informáticos, base de datos y redes computacionales.<br>•\tDiseño y alojamiento de páginas web y venta de dominios.<br>•\tInstalación de servidores.<br>•\tPublicidad en internet.<br>•\tCursos informáticos de ofimática, sistemas operativos, internet y otros.<br>•\tEntre otros…<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"informatica.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Ver más</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -333,82 +299,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/20141210-095925-134x160-19.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Andrés Umaña",
-              "authorBio": "Gerente General"
-            },
-            {
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/1493195-10205178198951189-7798172552918946342-n-160x160-38.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Sergio Serrano",
-              "authorBio": "SEO y Desarrolador Web"
-            },
-            {
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-0",
-          "_params": {
-            "count": 3,
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
-          },
-          "title": "Equipo",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_name": "contacts2",
@@ -545,7 +435,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Acerca de</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -593,7 +483,6 @@
         {
           "_name": "gallery1",
           "_params": {
-            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
@@ -671,9 +560,11 @@
                 "caption": "Type caption here"
               }
             ],
+            "spacing": 0,
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
+            "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
@@ -888,6 +779,7 @@
           "_name": "form1",
           "_anchor": "form1-0",
           "_params": {
+            "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1067,7 +959,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Acerca de</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -1115,7 +1007,6 @@
         {
           "_name": "gallery1",
           "_params": {
-            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
@@ -1193,9 +1084,11 @@
                 "caption": "Type caption here"
               }
             ],
+            "spacing": 0,
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
+            "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
@@ -1410,6 +1303,7 @@
           "_name": "form1",
           "_anchor": "form1-0",
           "_params": {
+            "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1589,7 +1483,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Acerca de</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -1637,7 +1531,6 @@
         {
           "_name": "gallery1",
           "_params": {
-            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
@@ -1715,9 +1608,11 @@
                 "caption": "Type caption here"
               }
             ],
+            "spacing": 0,
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
+            "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
@@ -1932,6 +1827,7 @@
           "_name": "form1",
           "_anchor": "form1-0",
           "_params": {
+            "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -2111,7 +2007,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Acerca de</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -2159,7 +2055,6 @@
         {
           "_name": "gallery1",
           "_params": {
-            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
@@ -2237,9 +2132,11 @@
                 "caption": "Type caption here"
               }
             ],
+            "spacing": 0,
             "showText": false,
             "filter": false,
             "bgColor": "#FFFFFF",
+            "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
@@ -2454,6 +2351,7 @@
           "_name": "form1",
           "_anchor": "form1-0",
           "_params": {
+            "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -2633,7 +2531,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Acerca de</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Equipo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -2681,7 +2579,6 @@
         {
           "_name": "gallery1",
           "_params": {
-            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
@@ -2764,9 +2661,11 @@
                 "active": true
               }
             ],
+            "spacing": 0,
             "showText": false,
             "filter": false,
             "bgColor": "#efefef",
+            "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
@@ -2981,6 +2880,7 @@
           "_name": "form1",
           "_anchor": "form1-0",
           "_params": {
+            "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -3024,6 +2924,664 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>"
+        },
+        {
+          "_name": "contacts2",
+          "_anchor": "contacts2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Avenida España, San José Costa Rica",
+              "placeId": "ChIJ9YFoGMv8oI8R8khMnXGIT54",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Avenida España, San José Costa Rica<br><br><br>\n<strong>Contacto</strong><br>\nEmail: adeo.soluciones@gmail.com<br>\nTel: +506&nbsp;8352-5828<br>Tel: +506 8707-9132<br><br>",
+          "text2": ""
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Adeo Soluciones. Diseñado por <a href=\"http://www.sergioalejserrano.me\" target=\"_blank\">Sergio Serrano</a>"
+        }
+      ]
+    },
+    "acercade.html": {
+      "settings": {
+        "title": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adeo-192x128-35.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://adeocr.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/adeo-1400x933-65.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Soluciones al alcance de tu mano",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_name": "content2",
+          "_anchor": "content2-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>SOBRE ADEO</p></blockquote>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "center"
+            },
+            ".lead BLOCKQUOTE": {
+              "color": "#232323"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-0",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Misión",
+          "text": "<blockquote>Somos una empresa de servicios en el mercado nacional, que comprometidos con la satisfacción del cliente, desarrollamos nuestras competencias esenciales y utilizamos los recursos de forma óptima, colaborando así con el desarrollo ambiental, económico y social del país.</blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead BLOCKQUOTE": {
+              "color": "#232323"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Visión",
+          "text": "<blockquote>Ser una empresa modelo en la prestación de servicios, logrando la satisfacción del cliente basados en el desarrollo tecnológico, socio ambiental y la calidad técnica y humana de nuestro personal.</blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/p-20160903-163845-1-p-1-160x152-78.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Andrés Umaña",
+              "authorBio": "Director Informática"
+            },
+            {
+              "text": "<p>“La vida da muchas vueltas, siempre tenemos que dar lo menor de nosotros y vivir al máximo cada experiencia.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/1493195-10205178198951189-7798172552918946342-n-160x160-20.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sergio Serrano",
+              "authorBio": "Desarrollador Web"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_anchor": "testimonials1-0",
+          "_params": {
+            "count": "9",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_name": "contacts2",
+          "_anchor": "contacts2-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Avenida España, San José Costa Rica",
+              "placeId": "ChIJ9YFoGMv8oI8R8khMnXGIT54",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Avenida España, San José Costa Rica<br><br><br>\n<strong>Contacto</strong><br>\nEmail: adeo.soluciones@gmail.com<br>\nTel: +506&nbsp;8352-5828<br>Tel: +506 8707-9132<br><br>",
+          "text2": ""
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Adeo Soluciones. Diseñado por <a href=\"http://www.sergioalejserrano.me\" target=\"_blank\">Sergio Serrano</a>"
+        }
+      ]
+    },
+    "contacto.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adeo-192x128-35.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://adeocr.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"acercade.html\">Acerca de</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arquitectura.html\">Arquitectura</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contabilidad.html\">Contabilidad</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidad.html\">Electricidad<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"grafico.html\">Diseño Gráfico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"informatica.html\">Informática</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-167272-2000x1333-49.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "Contactenos para más información",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-0",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": false
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "",
+          "form": {
+            "action": "sergioalejserrano@gmail.com",
+            "alerts": {
+              "success": "Gracias por contactarnos, en un momento un representante se pondrá en contacto con usted!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacto</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_name": "contacts2",
