@@ -6,7 +6,19 @@
     "name": "ADEO",
     "theme": {
       "name": "mobirise3",
-      "title": "Mobirise 3"
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false
+      }
     },
     "scrollAnimation": "true",
     "publishType": "local",
@@ -460,7 +472,7 @@
             "showButtons": false
           },
           "title": "Arquitectura Adeo",
-          "text": "Breve texto de arquitectura",
+          "text": "Nuestros diseños arquitectónicos le sorpredenrán, ya que logramos armonía en los entornos tomando en cuenta esos rasgos tan especiales de cada localidad.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -621,7 +633,7 @@
           },
           "title1": "Diseño Arquitectónico",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p>¿Que és?</p>",
+          "caption1": "<p>Con tal de lograr equilibrio entre lo estético y la tecnología, nuestros diseños arquitectónicos ofrecen creatividad y organización para ese entorno físico que hará de su vida lo más emocionante.</p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -634,9 +646,9 @@
               "family": "et-line"
             }
           },
-          "title2": "Arquitectura y diseño interior",
+          "title2": "Arquitectura de Interiores y Exteriores",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "¿Que és?.",
+          "caption2": "Documentos de Construcción y obra final<br>Cumplimos con las normativas y estándares para el diseño y desarrollo de proyectos, con ingenieros y arquitectos avalados por el CFIA lo cual respalda que su sueño de construir sea toda una proeza.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -649,9 +661,9 @@
               "family": "et-line"
             }
           },
-          "title3": "Documentos Constructivos",
+          "title3": "Diseño de Interiores",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "¿Que és?",
+          "caption3": "Todo entra por la vista dicen... ¡y es así! Nuestro equipo de arquitectos lo apoyará en el diseño interior de sus espacios residenciales y laborales para que se sienta a gusto a toda hora, no creerá posible los resultados finales.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -822,7 +834,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_name": "contacts2",
@@ -984,7 +1001,7 @@
             "showButtons": false
           },
           "title": "Contabilidad Adeo",
-          "text": "Breve texto de arquitectura",
+          "text": "Hoy en día la información contable es imprescindible para lograr tomar excelentes decisiones, las cuales con el acompañamiento de los mejores profesionales en el área, ayudarán a alcanzar sus metas de manera sencilla y rápida.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1143,9 +1160,9 @@
               "color": "#fff"
             }
           },
-          "title1": "Registros contables",
+          "title1": "Asesoría Legal",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p>¿Que és?</p>",
+          "caption1": "<p>Contamos con profesionales en derecho que le pueden acompañar tanto en procesos notariales que son requisitos de toda empresa hasta acompañamiento legal en áreas derecho tributario, laboral, empresarial y jurídico.</p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1158,9 +1175,9 @@
               "family": "et-line"
             }
           },
-          "title2": "Flujos de caja",
+          "title2": "Asesoría Financiera y contabilidad",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "¿Que és?.",
+          "caption2": "Implementación de controles y revisiones de procesos contables y administrativos, basados en las Normas Contables internacionales para la elaboración de informes contables que le ayudarán a tomar las mejores decisiones para su negocio.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1173,9 +1190,9 @@
               "family": "et-line"
             }
           },
-          "title3": "Libros legales",
+          "title3": "Auditoría",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "¿Que és?",
+          "caption3": "Disponga de una opinión independiente respecto a la razonabilidad de los estados financieros de su representada, útil y necesaria para efectos tributarios, bancarios y de control de su negocio. Aplicamos pruebas de revisión exigidas por las normas de auditoría que facilitan además la identificación de oportunidades de mejora para su contabilidad.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1346,7 +1363,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_name": "contacts2",
@@ -1508,7 +1530,7 @@
             "showButtons": false
           },
           "title": "Diseño Gráfico Adeo",
-          "text": "Breve texto de arquitectura",
+          "text": "<br>Mediante los mejores elementos de comunicación visual, puede dar a conocer su negocio apoyándose en la experiencia de profesionales del marketing y la comunicación, quienes harán de su experiencia un mundo lleno de colores.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1870,7 +1892,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_name": "contacts2",
@@ -2552,7 +2579,7 @@
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
           "title": "Informática Adeo",
@@ -2923,7 +2950,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Cotizar</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_name": "contacts2",
@@ -3064,6 +3096,13 @@
         },
         {
           "_name": "header2",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "parallax": true,
@@ -3108,29 +3147,22 @@
           },
           "title": "Soluciones al alcance de tu mano",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content2-0",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>SOBRE ADEO</p></blockquote>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<blockquote><p>SOBRE ADEO</p></blockquote>"
         },
         {
           "_inherit": "msg-box8",
@@ -3348,6 +3380,9 @@
             "count": "9",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -3357,10 +3392,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "Nuestro equipo de visionarios",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -3531,6 +3563,11 @@
         },
         {
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-0",
           "_params": {
             "labelsColor": "#232323",
@@ -3576,12 +3613,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacto</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacto</a>"
         },
         {
           "_name": "contacts2",

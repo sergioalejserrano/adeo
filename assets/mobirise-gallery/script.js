@@ -46,7 +46,7 @@
         }
         /* youtube default preview */
         function getPreviewUrl(videoId, quality) {
-            return 'http://img.youtube.com/vi/' + videoId + '/' +
+            return 'https://img.youtube.com/vi/' + videoId + '/' +
                 (quality || '') + 'default.jpg';
         }
     }
